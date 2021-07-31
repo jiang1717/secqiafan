@@ -1,0 +1,8 @@
+dubbo:
+  application:
+    name: web-item
+  registry:
+    protocol: zookeeper
+    address: 123.56.20.143:2181
+server:
+  port: 9090

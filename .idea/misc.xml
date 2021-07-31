@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/secqiafan-api/pom.xml" />
+        <option value="$PROJECT_DIR$/secqiafan-basic/pom.xml" />
+        <option value="$PROJECT_DIR$/secqiafan-service/pom.xml" />
+        <option value="$PROJECT_DIR$/secqiafan-web/pom.xml" />
+        <option value="$PROJECT_DIR$/secqiafan-basic/secqiafan-entity/pom.xml" />
+        <option value="$PROJECT_DIR$/secqiafan-basic/secqiafan-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/secqiafan-basic/secqiafan-commons/pom.xml" />
+        <option value="$PROJECT_DIR$/secqiafan-api/secqiafan-seckill-api/pom.xml" />
+        <option value="$PROJECT_DIR$/secqiafan-service/secqiafan-seckill-service/pom.xml" />
+        <option value="$PROJECT_DIR$/secqiafan-web/secqiafan-secitem-web/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

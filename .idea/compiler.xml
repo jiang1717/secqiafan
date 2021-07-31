@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="secqiafan-basic" />
+        <module name="secqiafan-service" />
+        <module name="secqiafan-web" />
+        <module name="secqiafan-api" />
+        <module name="secqiafan-product-api" />
+        <module name="secqiafan" />
+        <module name="secqiafan-entity" />
+        <module name="secqiafan-item" />
+        <module name="secqiafan-product-service" />
+        <module name="secqiafan-commons" />
+        <module name="secqiafan-mapper" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="secqiafan-item" options="-parameters" />
+      <module name="secqiafan-product-service" options="-parameters" />
+    </option>
+  </component>
+</project>

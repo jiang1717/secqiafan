@@ -1,0 +1,5 @@
+# Project exclude paths
+/secqiafan-api/secqiafan-product-api/target/
+/secqiafan-basic/secqiafan-commons/target/
+/secqiafan-basic/secqiafan-entity/target/
+/secqiafan-basic/secqiafan-mapper/target/
